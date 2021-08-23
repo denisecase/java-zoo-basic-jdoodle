@@ -2,7 +2,7 @@ public class Aardvark extends Animal {
     
     @Override
     public void speak() {
-        System.out.println("I'm an Ardvark!");
+        System.out.println("I'm an Aardvark!");
     }
     
     @Override
