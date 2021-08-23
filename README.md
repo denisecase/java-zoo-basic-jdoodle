@@ -2,7 +2,11 @@
 
 > Try the advanced IDE at JDoodle to practice basic OOP with Java
 
-Zoo Simulation  - make your own derived animal at https://www.jdoodle.com/online-java-compiler-ide/
+Zoo Simulation  - make your own derived animal at https://www.jdoodle.com/online-java-compiler-ide/.
+
+Start a brand new project, add empty files, and paste the "Raw" contents from these to get started.
+
+Suggested steps:
 
 1. Create Animal.java (see code provided)
 2. Create ZooSimulation.java (see code provided)
